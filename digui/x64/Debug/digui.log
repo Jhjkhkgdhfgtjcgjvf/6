@@ -1,0 +1,27 @@
+﻿  源.cpp
+C:\Users\H\source\repos\digui\digui\源.cpp(68,21): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\H\source\repos\digui\digui\源.cpp(68,21): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\H\source\repos\digui\digui\源.cpp(68,21): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\H\source\repos\digui\digui\源.cpp(68,21): message : 此参数用作缓冲区大小
+C:\Users\H\source\repos\digui\digui\源.cpp(84,21): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\H\source\repos\digui\digui\源.cpp(84,21): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\H\source\repos\digui\digui\源.cpp(84,21): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\H\source\repos\digui\digui\源.cpp(84,21): message : 此参数用作缓冲区大小
+C:\Users\H\source\repos\digui\digui\源.cpp(105,21): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\H\source\repos\digui\digui\源.cpp(105,21): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\H\source\repos\digui\digui\源.cpp(105,21): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\H\source\repos\digui\digui\源.cpp(105,21): message : 此参数用作缓冲区大小
+C:\Users\H\source\repos\digui\digui\源.cpp(107,21): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\H\source\repos\digui\digui\源.cpp(107,21): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\H\source\repos\digui\digui\源.cpp(107,21): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\H\source\repos\digui\digui\源.cpp(107,21): message : 此参数用作缓冲区大小
+C:\Users\H\source\repos\digui\digui\源.cpp(109,20): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+C:\Users\H\source\repos\digui\digui\源.cpp(109,20): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 1 冲突
+C:\Users\H\source\repos\digui\digui\源.cpp(111,20): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+C:\Users\H\source\repos\digui\digui\源.cpp(111,20): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 1 冲突
+C:\Users\H\source\repos\digui\digui\源.cpp(121,21): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\H\source\repos\digui\digui\源.cpp(121,21): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\H\source\repos\digui\digui\源.cpp(121,21): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\H\source\repos\digui\digui\源.cpp(121,21): message : 此参数用作缓冲区大小
+C:\Users\H\source\repos\digui\digui\源.cpp(80,18): warning C4101: “cc”: 未引用的局部变量
+  digui.vcxproj -> C:\Users\H\source\repos\digui\x64\Debug\digui.exe
